@@ -1,1 +1,1 @@
-Hello my name is Daniel Katanov
+Hello we are students in Devops course
